@@ -1,0 +1,14 @@
+1. animatedsprite : inheriting from sprite class and making them animated
+2. animtedtile : inherting from tile class and making them animated when player interacts from them
+3. door : door module for implementation of door
+4. enemy : enemy mechanics
+5. globals : global variables for the whole project 
+6. graphcis : module for the game window management (like resolution, frame rate etc)
+7. HUD : module for heads up display (health bars, ammo left)
+8. Input : Module for taking and processing inputs from the user
+9. Level : module for level design
+10. player : module for player model, it's movement, design and all
+11. Rectangle : module for displaying things from sprite sheets 
+12. Sprite : the base module all the sprites
+13. Tile : the base module for all the tiles in the game
+

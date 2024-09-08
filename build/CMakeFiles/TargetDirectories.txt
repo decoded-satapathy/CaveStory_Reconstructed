@@ -1,0 +1,3 @@
+/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles/my_program.dir
+/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles/edit_cache.dir
+/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles/rebuild_cache.dir
