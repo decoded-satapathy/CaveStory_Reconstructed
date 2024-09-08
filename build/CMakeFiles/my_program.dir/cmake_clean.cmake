@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/my_program.dir/source/src/graphics.cpp.o.d"
   "CMakeFiles/my_program.dir/source/src/input.cpp.o"
   "CMakeFiles/my_program.dir/source/src/input.cpp.o.d"
+  "CMakeFiles/my_program.dir/source/src/level.cpp.o"
+  "CMakeFiles/my_program.dir/source/src/level.cpp.o.d"
   "CMakeFiles/my_program.dir/source/src/main.cpp.o"
   "CMakeFiles/my_program.dir/source/src/main.cpp.o.d"
   "CMakeFiles/my_program.dir/source/src/player.cpp.o"

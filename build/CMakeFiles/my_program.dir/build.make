@@ -125,10 +125,24 @@ CMakeFiles/my_program.dir/source/src/input.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/my_program.dir/source/src/input.cpp.s"
 	/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/input.cpp -o CMakeFiles/my_program.dir/source/src/input.cpp.s
 
+CMakeFiles/my_program.dir/source/src/level.cpp.o: CMakeFiles/my_program.dir/flags.make
+CMakeFiles/my_program.dir/source/src/level.cpp.o: /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/level.cpp
+CMakeFiles/my_program.dir/source/src/level.cpp.o: CMakeFiles/my_program.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/my_program.dir/source/src/level.cpp.o"
+	/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_program.dir/source/src/level.cpp.o -MF CMakeFiles/my_program.dir/source/src/level.cpp.o.d -o CMakeFiles/my_program.dir/source/src/level.cpp.o -c /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/level.cpp
+
+CMakeFiles/my_program.dir/source/src/level.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/my_program.dir/source/src/level.cpp.i"
+	/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/level.cpp > CMakeFiles/my_program.dir/source/src/level.cpp.i
+
+CMakeFiles/my_program.dir/source/src/level.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/my_program.dir/source/src/level.cpp.s"
+	/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/level.cpp -o CMakeFiles/my_program.dir/source/src/level.cpp.s
+
 CMakeFiles/my_program.dir/source/src/main.cpp.o: CMakeFiles/my_program.dir/flags.make
 CMakeFiles/my_program.dir/source/src/main.cpp.o: /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/main.cpp
 CMakeFiles/my_program.dir/source/src/main.cpp.o: CMakeFiles/my_program.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/my_program.dir/source/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/my_program.dir/source/src/main.cpp.o"
 	/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_program.dir/source/src/main.cpp.o -MF CMakeFiles/my_program.dir/source/src/main.cpp.o.d -o CMakeFiles/my_program.dir/source/src/main.cpp.o -c /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/main.cpp
 
 CMakeFiles/my_program.dir/source/src/main.cpp.i: cmake_force
@@ -142,7 +156,7 @@ CMakeFiles/my_program.dir/source/src/main.cpp.s: cmake_force
 CMakeFiles/my_program.dir/source/src/player.cpp.o: CMakeFiles/my_program.dir/flags.make
 CMakeFiles/my_program.dir/source/src/player.cpp.o: /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/player.cpp
 CMakeFiles/my_program.dir/source/src/player.cpp.o: CMakeFiles/my_program.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/my_program.dir/source/src/player.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/my_program.dir/source/src/player.cpp.o"
 	/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_program.dir/source/src/player.cpp.o -MF CMakeFiles/my_program.dir/source/src/player.cpp.o.d -o CMakeFiles/my_program.dir/source/src/player.cpp.o -c /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/player.cpp
 
 CMakeFiles/my_program.dir/source/src/player.cpp.i: cmake_force
@@ -156,7 +170,7 @@ CMakeFiles/my_program.dir/source/src/player.cpp.s: cmake_force
 CMakeFiles/my_program.dir/source/src/sprite.cpp.o: CMakeFiles/my_program.dir/flags.make
 CMakeFiles/my_program.dir/source/src/sprite.cpp.o: /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/sprite.cpp
 CMakeFiles/my_program.dir/source/src/sprite.cpp.o: CMakeFiles/my_program.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/my_program.dir/source/src/sprite.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/my_program.dir/source/src/sprite.cpp.o"
 	/sbin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_program.dir/source/src/sprite.cpp.o -MF CMakeFiles/my_program.dir/source/src/sprite.cpp.o.d -o CMakeFiles/my_program.dir/source/src/sprite.cpp.o -c /home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/source/src/sprite.cpp
 
 CMakeFiles/my_program.dir/source/src/sprite.cpp.i: cmake_force
@@ -173,6 +187,7 @@ my_program_OBJECTS = \
 "CMakeFiles/my_program.dir/source/src/game.cpp.o" \
 "CMakeFiles/my_program.dir/source/src/graphics.cpp.o" \
 "CMakeFiles/my_program.dir/source/src/input.cpp.o" \
+"CMakeFiles/my_program.dir/source/src/level.cpp.o" \
 "CMakeFiles/my_program.dir/source/src/main.cpp.o" \
 "CMakeFiles/my_program.dir/source/src/player.cpp.o" \
 "CMakeFiles/my_program.dir/source/src/sprite.cpp.o"
@@ -184,12 +199,13 @@ my_program: CMakeFiles/my_program.dir/source/src/animatedsprites.cpp.o
 my_program: CMakeFiles/my_program.dir/source/src/game.cpp.o
 my_program: CMakeFiles/my_program.dir/source/src/graphics.cpp.o
 my_program: CMakeFiles/my_program.dir/source/src/input.cpp.o
+my_program: CMakeFiles/my_program.dir/source/src/level.cpp.o
 my_program: CMakeFiles/my_program.dir/source/src/main.cpp.o
 my_program: CMakeFiles/my_program.dir/source/src/player.cpp.o
 my_program: CMakeFiles/my_program.dir/source/src/sprite.cpp.o
 my_program: CMakeFiles/my_program.dir/build.make
 my_program: CMakeFiles/my_program.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable my_program"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/osatapathy/collegeStuff/Sem_5/mini_project/embers_of_liberation/project_code/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable my_program"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/my_program.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

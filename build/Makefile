@@ -225,6 +225,30 @@ source/src/input.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_program.dir/build.make CMakeFiles/my_program.dir/source/src/input.cpp.s
 .PHONY : source/src/input.cpp.s
 
+source/src/level.o: source/src/level.cpp.o
+.PHONY : source/src/level.o
+
+# target to build an object file
+source/src/level.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_program.dir/build.make CMakeFiles/my_program.dir/source/src/level.cpp.o
+.PHONY : source/src/level.cpp.o
+
+source/src/level.i: source/src/level.cpp.i
+.PHONY : source/src/level.i
+
+# target to preprocess a source file
+source/src/level.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_program.dir/build.make CMakeFiles/my_program.dir/source/src/level.cpp.i
+.PHONY : source/src/level.cpp.i
+
+source/src/level.s: source/src/level.cpp.s
+.PHONY : source/src/level.s
+
+# target to generate assembly for a file
+source/src/level.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_program.dir/build.make CMakeFiles/my_program.dir/source/src/level.cpp.s
+.PHONY : source/src/level.cpp.s
+
 source/src/main.o: source/src/main.cpp.o
 .PHONY : source/src/main.o
 
@@ -318,6 +342,9 @@ help:
 	@echo "... source/src/input.o"
 	@echo "... source/src/input.i"
 	@echo "... source/src/input.s"
+	@echo "... source/src/level.o"
+	@echo "... source/src/level.i"
+	@echo "... source/src/level.s"
 	@echo "... source/src/main.o"
 	@echo "... source/src/main.i"
 	@echo "... source/src/main.s"
